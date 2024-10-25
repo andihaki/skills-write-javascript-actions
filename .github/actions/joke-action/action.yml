@@ -2,6 +2,10 @@ name: "joke actions"
 
 description: "auto jokes"
 
+outputs:
+  joke-output:
+    description: wkwkwk 🤣
+
 runs:
   using: "node16"
   main: "main.js"
